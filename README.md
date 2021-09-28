@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Reem Imran Anavatti
-- 👀 I’m interested in programmingand solving puzzles
+- 👀 I’m interested in programming and solving puzzles
 - 🌱 I’m currently learning Data Science
 
 <!---
